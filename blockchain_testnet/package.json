@@ -1,0 +1,22 @@
+{
+  "name": "btctestnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.0",
+    "ecpair": "^2.1.0",
+    "jsdom": "^21.1.0",
+    "litecore-lib": "^0.13.22",
+    "node-fetch": "^2.6.9",
+    "tiny-secp256k1": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.6"
+  }
+}
